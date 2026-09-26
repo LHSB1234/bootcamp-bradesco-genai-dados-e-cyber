@@ -1,0 +1,29 @@
+# Variáveis de ambiente e credenciais
+.env
+.env.local
+.env.*.local
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Caches e arquivos compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Configurações locais de IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
